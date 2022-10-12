@@ -16,6 +16,8 @@
 | R3| [Github repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)   |Creating a repo aka Repository|
 | R4| [Github keyboard shortcuts](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/keyboard-shortcuts) |Keyboard shortcuts|
 | R5| [Github desktop info](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) |Github Desktop|
+| R6| [Github and intelliJ](https://www.jetbrains.com/help/idea/github.html#register-account) |Github and intellij|
+
 
 
 
