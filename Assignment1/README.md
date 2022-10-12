@@ -18,8 +18,8 @@
 | Identify| Params | FileName                        | Author  | Works                 | Description/Notes                                         |                 
 | ------- | ------------ | ------------------------------- | ------- | -------               | --------------------------------------------------------- |                 
 |         |              |[README.md](#miniBank Project)      | NAME     | :white_check_mark: |                                                           |   
-|         |              |[fileName.java](URL GITHUB Link to File)       | NAME  | :x: = not started |                                                    |    |         |              |                                               | NAME  |                   |                                                    |
-|         |              |[fileName.java](URL GITHUB Link to File)       | NAME  | :x: = not started |                                                    |
+|         |              |[fileName.java](URL GITHUB Link to File)       | NAME  | :black_square_button: = work in progress |                             |    |         |              |                                               | NAME  |                   |                                                    |
+|         |              |[fileName.java](URL GITHUB Link to File)       | NAME  | :black_square_button: = work in progress|                              |
 |         |              |[fileName.java](URL GITHUB Link to File)       | NAME  | :x: = not started |                                                    |
 |         |              |[fileName.java](URL GITHUB Link to File)       | NAME  | :x: = not started |                                                    | 
 |         |              |                                               |		   |							     |																	                  |
