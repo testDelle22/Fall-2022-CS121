@@ -17,6 +17,8 @@ HELLO CHange
 | R4| [Github keyboard shortcuts](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/keyboard-shortcuts) |Keyboard shortcuts|
 | R5| [Github desktop info](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) |Github Desktop|
 | R6| [Github and intelliJ](https://www.jetbrains.com/help/idea/github.html#register-account) |Github and intellij|
+| R7| [Github Desktop adding Branches](https://www.softwaretestinghelp.com/github-desktop-tutorial/) |Github making branches|
+
 
 
 
