@@ -24,7 +24,7 @@ HELLO CHange
 
 
 ### Roster
-![](https://d3vv6lp55qjaqc.cloudfront.net/items/220B0V0H3c041K2p251Z/google-sheets-16.png) [Class Roster](https://ballstate-my.sharepoint.com/:x:/r/personal/ladelle_augustine_bsu_edu/Documents/Roster.xlsx?d=w4dca30bc28ca444d85d537dac5c2b1eb&csf=1&web=1&e=cd0v13)
+![](https://ballstate-my.sharepoint.com/:x:/g/personal/ladelle_augustine_bsu_edu/Ebwwyk3KKE1EhdU32sXCsesBFEdibSC5LM5xnpJEKJ_iPQ?e=puAlxK) [Class Roster](https://ballstate-my.sharepoint.com/:x:/r/personal/ladelle_augustine_bsu_edu/Documents/Roster.xlsx?d=w4dca30bc28ca444d85d537dac5c2b1eb&csf=1&web=1&e=cd0v13)
 
 
 ### General Course Info
